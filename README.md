@@ -6,6 +6,7 @@ O projeto consiste na criação de uma API Rest no flask utilizando os dados de 
 Para rodar o projeto é necessário apenas a instalação das bibliotecas: 
 
 -Flask 
+
 -Flaskrestx  
 -Werkzeug
 
