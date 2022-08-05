@@ -1,5 +1,5 @@
 # Desafio-Backend-Sisenex
-Desafio proposto pelo laboratório "LABES" para a vaga de bolsista no projeto Sisenex.  
+Desafio proposto pelo laboratório "LABES-UFPB" para a vaga de bolsista no projeto Sisenex.  
 
 O projeto consiste na criação de uma API Rest no flask utilizando os dados de propostas feitas por deputados federais.
 
